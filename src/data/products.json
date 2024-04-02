@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Jeans", "price": 1000, "imageUrl": "product1.jpg" },
+  { "id": 2, "name": "Shirt", "price": 2000, "imageUrl": "product2.jpg" },
+  { "id": 3, "name": "T-Shirt", "price": 3000, "imageUrl": "product3.jpg" },
+  { "id": 4, "name": "Sweater", "price": 2500, "imageUrl": "product4.jpg" },
+  { "id": 5, "name": "Jacket", "price": 3500, "imageUrl": "product5.jpg" },
+  { "id": 6, "name": "Dress", "price": 1500, "imageUrl": "product6.jpg" },
+  { "id": 7, "name": "Shorts", "price": 1200, "imageUrl": "product7.jpg" },
+  { "id": 8, "name": "Skirt", "price": 1800, "imageUrl": "product8.jpg" },
+  { "id": 9, "name": "Sweatshirt", "price": 2200, "imageUrl": "product9.jpg" }
+  ]
+  
