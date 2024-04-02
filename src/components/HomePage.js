@@ -11,7 +11,7 @@ const HomePage = () => {
       <div className={styles.homepageSection}>
         <div className={styles.homepageSectionLeft}>
           <h3 className={styles.homepageSectionHeading}>Shop Men's Collection</h3>
-          <img src="../../public/images/jeans.jpg" style={{ height: "400px" }} alt="Jeans" className={styles.homepageImage} />
+          <img src="/images/jeans.jpg" style={{ height: "400px" }} alt="Jeans" className={styles.homepageImage} />
           <p>Find the perfect fit with our wide range of jeans for men.</p>
           <button className={styles.homepageButton}>Explore Men's Collection</button>
         </div>
